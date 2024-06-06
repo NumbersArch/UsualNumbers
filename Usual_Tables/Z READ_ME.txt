@@ -40,7 +40,7 @@ description)
 ** the purpose of the "processed" folder is to manually adjust values. If those files are overwritten your manual adjustments will be lost. 
 
 list_all.txt
-All vtubers and in the "Vtubers_all.txt" file are placed here in a structured order. This is a reference file to be used with other charting programs.
+All vtubers in the "Vtubers_all.txt" file are placed here in a structured order. This is a reference file to be used with other charting programs.
 
 chart.txt
 A copy of list_all.txt, except you can select which vtubers you want included in the chart. 
