@@ -194,7 +194,7 @@ for en, p in enumerate(paths):
 		if(len(times)>0): 
 			minutes = sum(times)
 			minuteswatched = round(sum([times[i] * means[i] for i in range(len(times))]))
-			hourswatched = minuteswatched/60
+			hourswatched = round(minuteswatched/60)
 		else: minutes = 0
 		if(len(ltimes)>0): lminutes = sum(ltimes)
 		else: lminutes = 0
