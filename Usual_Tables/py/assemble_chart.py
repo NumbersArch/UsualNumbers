@@ -260,7 +260,7 @@ print("\""+dfcname + "\""+" exported to "+ "\""+dname + "\""+" directory")
 df3 = df3.sort_values(by = 'Average', ascending=False)
 df3 = df3.reset_index()
 df3 = df3.rename(columns={"index" : "ranking"})
-df3["ranking"] = df3["ranking"] + 1
+df3["ranking"] = range(1,len(df3.index)+1)
 df3name = datestring+"_combined"+".csv"
 df3path = join(finisheddirectory, df3name)
 df3.to_csv(df3path, index=False)  
