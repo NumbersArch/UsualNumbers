@@ -40,7 +40,7 @@ description)
 ** the purpose of the "processed" folder is to manually adjust values. If those files are overwritten your manual adjustments will be lost. 
 
 list_all.txt
-All vtubers in the "Vtubers_all.txt" file are placed here in a structured order. This is a reference file to be used with other charting programs.
+All vtubers and in the "Vtubers_all.txt" file are placed here in a structured order. This is a reference file to be used with other charting programs.
 
 chart.txt
 A copy of list_all.txt, except you can select which vtubers you want included in the chart. 
@@ -52,7 +52,7 @@ Cover
 		Myth
 			Gawr Gura
 			Ninomae Ina'nis
-	#		Ame
+			#Ame
 			Calliope Mori
 			Takanashi Kiara
 		#Promise
@@ -63,7 +63,7 @@ Cover
 			IRyS
 Nobody in Promise, nor Ame will be included in the chart. 
 ** remember the handy command Ctrl+H can help you remove the "#"
-** comments anywhere on the left side work, but the tabbing needs to remain the same
+** comments on the far left side should work too
 
 chart.sh [date]
 # example command 1: bash chart.sh "05/2024"
@@ -80,16 +80,20 @@ If a company, agency, gen, or name is unwanted, simply comment the line "#". No 
 
 timechart.sh [date 1] [date 2]
 # example command 1: bash timechart.sh "03/2023" "05/2024"
-# example command 2: bash timechart.sh "03-2023" "05-2024"
+# example command 1: bash timechart.sh "03-2023" "05-2024"
 ** The month and year are mandatory, two formats are supported either "/" or "-"
 description)
 Reads processed files, all files between two dates are read and placed into a timeseries chart. This way you can track the performance of multiple metrics over time. 
 
+~ Getting ID's ~
+** requires lynx
+Go into the Workspace folder and run the "brands" script with the Vstats homepage of the corporation 
+# example command: ./brands "https://www.vstats.jp/brands/7"
 
 === HOW TO USE ===
 ------------------
 Downloading/Processing Data
-Step 1) Add vtubers to "Vtubers_all.txt". Build out the list as much as you desire. Get their ID's by going to their vrabi or vstats page. "https://www.vstats.jp/brands" to get started. It's in the URL and starts with "UC".
+Step 1) Add vtubers to "Vtubers_all.txt". Build out the list as much as you desire. Get their ID's by going to their vrabi or vstats page. "https://www.vstats.jp/brands" to get started. It's in the URL and starts with "UC" (see "getting ID's above)
 Step 2) Copy "Vtubers_all.txt" and rename the copy "Vtubers.txt", deleting the old "Vtubers.txt" if necessary. Edit the list and remove the vtubers you don't want downloaded. Number the items as you wish (see "numbering" above)
 Step 3) Run "scraper.sh" for the desired month/year. Open the raw folder and check your files downloaded properly. If it's the first run, select "y" to copy the files into the "processed" folder. 
 Step 4) Open the "processed" folder and edit the data as you wish. If you feel a stream should have a lower peak, go ahead and edit it. Be cautious that any edits will be overwritten by "scraper.sh" if you select "y" again.
@@ -104,5 +108,4 @@ Step 8) Copy "list_all.txt" and rename the copy "timechart.txt". Comment or dele
 Step 9) Run "timechart.sh" between the desired dates. Check the data in the "charts/timeseries" folder.
 Step 10) Rename or relocate the charts you don't want overwritten by the next run of "charts.sh". 
 ** scraper_loop.sh can help you
-
 
