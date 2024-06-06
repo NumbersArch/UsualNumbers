@@ -195,12 +195,13 @@ for d in alldir:
 			else: medianpeak =0; meanpeak =0;
 			if(len(times)>0): 
 				minutes = sum(times)
-				hourswatched = round(sum([times[i] * means[i] for i in range(len(times))])/60)
+				minuteswatched = round(sum([times[i] * means[i] for i in range(len(times))]))
+				hourswatched = minuteswatched/60
 			else: minutes = 0
 			if(len(ltimes)>0): lminutes = sum(ltimes)
 			else: lminutes = 0
 			lhours = round(lminutes/60)
-			if(lminutes >0): average = round(hourswatched/minutes)
+			if(lminutes >0): average = round(minuteswatched/minutes)
 			else: average=0
 			
 			dfnumber.at[elementname,d] = number
