@@ -17,7 +17,7 @@ Cover
 			Koseki Bijou
 			Shiori Novella
 			Nerissa Ravencroft
-#Anycolor
+Anycolor
 	Nijisanji EN
 		Lazulight
 			Elira Pendora
@@ -62,7 +62,7 @@ Cover
 			Vezalius Bandage
 		TTT
 			Claude Clawmark
-#Phase Connect
+Phase Connect
 	Phase Connect
 		Phase Origins
 			Pipkin Pippa
@@ -96,7 +96,7 @@ Cover
 			Ayase Yuu
 			Kannagi Loki
 			Kokoromo Memory
-#Indie
+Indie
 	Indie
 		Indie
 			Dokibird
