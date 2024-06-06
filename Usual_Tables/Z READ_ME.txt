@@ -80,7 +80,7 @@ If a company, agency, gen, or name is unwanted, simply comment the line "#". No 
 
 timechart.sh [date 1] [date 2]
 # example command 1: bash timechart.sh "03/2023" "05/2024"
-# example command 1: bash timechart.sh "03-2023" "05-2024"
+# example command 2: bash timechart.sh "03-2023" "05-2024"
 ** The month and year are mandatory, two formats are supported either "/" or "-"
 description)
 Reads processed files, all files between two dates are read and placed into a timeseries chart. This way you can track the performance of multiple metrics over time. 
