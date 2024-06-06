@@ -10,7 +10,7 @@ from os.path import isfile, join
 pname = "processed"
 dname = join("charts", "tables")
 cname = "chart.txt"
-vname = "Vtubers.txt"
+vname = "Vtubers_all.txt"
 esc = "#"
 marker = ") "
 
