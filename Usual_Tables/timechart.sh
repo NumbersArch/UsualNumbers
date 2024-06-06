@@ -48,7 +48,7 @@ else
 datestring1="$year1-$month1"
 datestring2="$year2-$month2"
 
-python3 .py/assemble_timechart.py "$datestring1" "$datestring2"
+python3 py/assemble_timechart.py "$datestring1" "$datestring2"
 
 fi
 fi
