@@ -63,7 +63,7 @@ Cover
 			IRyS
 Nobody in Promise, nor Ame will be included in the chart. 
 ** remember the handy command Ctrl+H can help you remove the "#"
-** comments on the far left side should work too
+** comments anywhere on the left side work, but the tabbing needs to remain the same
 
 chart.sh [date]
 # example command 1: bash chart.sh "05/2024"
