@@ -201,7 +201,7 @@ for d in alldir:
 			if(len(ltimes)>0): lminutes = sum(ltimes)
 			else: lminutes = 0
 			lhours = round(lminutes/60)
-			if(lminutes >0): average = round(minuteswatched/minutes)
+			if(minutes >0): average = round(minuteswatched/minutes)
 			else: average=0
 			
 			dfnumber.at[elementname,d] = number
