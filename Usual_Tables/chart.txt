@@ -1,0 +1,103 @@
+Cover
+	Hololive EN
+		Myth
+			Gawr Gura
+			Ninomae Ina'nis
+			Ame
+			Calliope Mori
+			Takanashi Kiara
+		Promise
+			Ceres Fauna
+			Nanashi Mumei
+			Hakos Baelz
+			Ouro Kronii
+			IRyS
+		Advent
+			Fuwamoco
+			Koseki Bijou
+			Shiori Novella
+			Nerissa Ravencroft
+#Anycolor
+	Nijisanji EN
+		Lazulight
+			Elira Pendora
+			Finana Ryugu
+		Obsydia
+			Rosemi Lovelock
+			Petra Gurin
+		Ethyria
+			Enna Alouette
+			Millie Parfait
+			Reimu Endou
+		ILuna
+			Maria Marionette
+			Scarle Yonaguni
+			Aia Amare
+		XSoliel
+			Meloco Kyoran
+			Kotoka Torahime
+		TTT
+			Victoria Brightshield
+			Kunai Nakasato
+		Luxiem
+			Vox Akuma
+			Luca Kaneshiro
+			Shu Yamino
+			Ike Eveland
+		Noctyx
+			Sonny Brisko
+			Uki Violeta
+			Fulgur Ovid
+			Alban Knox
+		ILuna
+			Ren Zotto
+			Aster Arcadia
+		XSoliel
+			Hex Haywire
+			Ver Vermillion
+			Doppio Dropscythe
+		Krisis
+			Vantacrow Bringer
+			Yu Q. Wilson
+			Vezalius Bandage
+		TTT
+			Claude Clawmark
+#Phase Connect
+	Phase Connect
+		Phase Origins
+			Pipkin Pippa
+			Fujikura Uruka
+			Rinkou Ashelia
+			Tenma Maemi
+			Utatane Nasa
+			Hakushika Iori
+			Shisui Michiru
+		Phase Alias
+			Erina Makina
+			Amanogawa Shiina
+			Remilia Nephys
+			Komachi Panko
+			Chisaka Airi
+			Himemiya Rie
+		Phase Invaders
+			Kaneko Lumi
+			Jelly Hoshiumi
+			Dizzy Dokuro
+			Ember Amane
+		Phase Euphoria
+			Muu Muyu
+			Saya Sairroxs
+			Runie Ruse
+			Eimi Isami
+			Hikanari Hina
+		Phase Kaleido
+			Clara Kaminari
+			Gram Pico
+			Ayase Yuu
+			Kannagi Loki
+			Kokoromo Memory
+#Indie
+	Indie
+		Indie
+			Dokibird
+			Maid Mint
