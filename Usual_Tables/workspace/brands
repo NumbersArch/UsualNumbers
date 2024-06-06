@@ -1,0 +1,7 @@
+URL="$1"
+
+lynx -dump -listonly "$URL" | sed 's/:/ /g' | awk '{print $4}' | sed "s/\// /g" | awk '{print $1}' | grep -v '^[[:space:]]*$' | sed ':a;N;$!ba;s/\n/\nID: /g' | sed '1s/^/ID: /' > ids.txt
+
+lynx -dump -nolist "$URL" | sed 's/所属Vtuber/\n/g' | sed '/^[[:space:]]*$/d' | sed 's/公式チャンネル・マネージャー/\n/g' | awk -v RS= 'NR==2' | sed '1 i\\n' | awk 'NR % 9 == 0' | sed 's/^[ \t]*//' | sed ':a;N;$!ba;s/\n/\nName: /g' | sed '1s/^/Name: /' > names.txt
+
+paste names.txt ids.txt | sed 's/\t\t*/\n/g' > name+ids.txt
