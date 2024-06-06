@@ -231,7 +231,10 @@ for d in alldir:
 				minutes = sum(times)
 				minuteswatched = round(sum([times[i] * means[i] for i in range(len(times))]))
 				hourswatched = round(minuteswatched/60)
-			else: minutes = 0
+			else: 
+				minutes = 0; 
+				hourswatched =0; 
+				minuteswatched=0
 			if(len(ltimes)>0): lminutes = sum(ltimes)
 			else: lminutes = 0
 			lhours = round(lminutes/60)
