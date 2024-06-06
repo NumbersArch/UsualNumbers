@@ -1,0 +1,247 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Company: 1) Cover
+Agency: Hololive EN
+
+Sex: Female
+Gen: Myth
+----------------------
+Name: Gawr Gura
+ID: UCoSrY_IQQVpmIRZ9Xf-y93g
+Name: Ninomae Ina'nis
+ID: UCMwGHR0BTZuLsmjY_NT5Pwg
+Name: Ame
+ID: UCyl1z3jo3XHR1riLFKG5UAg
+Name: Calliope Mori
+ID: UCL_qhgtOy0dy1Agp8vkySQg
+Name: Takanashi Kiara
+ID: UCHsx4Hqa-1ORjQTh9TYDhww
+
+Gen: Promise
+----------------------
+Name: Ceres Fauna
+ID: UCO_aKKYxn4tvrqPjcTzZ6EQ
+Name: Nanashi Mumei
+ID: UC3n5uGu18FoCy23ggWWp8tA
+Name: Hakos Baelz
+ID: UCgmPnx-EEeOrZSg5Tiw7ZRQ
+Name: Ouro Kronii
+ID: UCmbs8T6MWqUHP1tIQvSgKrg
+Name: IRyS
+ID: UC8rcEBzJSleTkf_-agPM20g
+
+Gen: Advent
+----------------------
+Name: Fuwamoco
+ID: UCt9H_RpQzhxzlyBxFqrdHqA
+Name: Koseki Bijou
+ID: UC9p_lqQ0FEDz327Vgf5JwqA
+Name: Shiori Novella
+ID: UCgnfPPb9JI3e9A4cXHnWbyg
+Name: Nerissa Ravencroft
+ID: UC_sFNM0z0MWm9A6WlKPuMMg
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Company: Anycolor
+Agency: Nijisanji EN 
+
+Sex: Female
+Gen: Lazulight
+----------------------
+Name: Elira Pendora
+ID: UCIeSUTOTkF9Hs7q3SGcO-Ow
+Name: Finana Ryugu
+ID: UCu-J8uIXuLZh16gG-cT1naw
+Name: Pomu Rainpuff
+ID: UCP4nMSTdwU1KqYWu3UH5DHQ
+
+Gen: Obsydia
+----------------------
+Name: Rosemi Lovelock
+ID: UC4WvIIAo89_AzGUh1AZ6Dkg
+Name: Petra Gurin
+ID: UCgA2jKRkqpY_8eysPUs8sjw
+Name: Selen Tatsuki
+ID: UCV1xUwfM2v2oBtT3JNvic3w
+
+Gen: Ethyria
+----------------------
+Name: Enna Alouette
+ID: UCR6qhsLpn62WVxCBK1dkLow
+Name: Millie Parfait
+ID: UC47rNmkDcNgbOcM-2BwzJTQ
+Name: Reimu Endou
+ID: UCBURM8S4LH7cRZ0Clea9RDA
+Name: Nina Kosaka
+ID: UCkieJGn3pgJikVW8gmMXE2w
+
+Gen: ILuna
+----------------------
+Name: Maria Marionette
+ID: UCwaS8_S7kMiKA3izlTWHbQg
+Name: Scarle Yonaguni
+ID: UCFgXWZOUZA2oYHNr6qDmsTQ
+Name: Aia Amare
+ID: UCN68LoM3khS4gdBMiWJO8WA
+
+Gen: XSoliel
+----------------------
+Name: Meloco Kyoran
+ID: UChKXd7oqD18qiIYBoRIHTlw
+Name: Kotoka Torahime
+ID: UCggO2c1unS-oLwTLT0ICywg
+
+Gen: TTT
+----------------------
+Name: Victoria Brightshield
+ID: UChTA8kHyInr2rKZ2aBv5ULw
+Name: Kunai Nakasato
+ID: UCwqtK-m6954_aHEvOYtZpyQ
+
+Sex: Male
+Gen: Luxiem
+----------------------
+Name: Vox Akuma
+ID: UCckdfYDGrjojJM28n5SHYrA
+Name: Luca Kaneshiro
+ID: UC7Gb7Uawe20QyFibhLl1lzA
+Name: Shu Yamino
+ID: UCG0rzBZV_QMP4MtWg6IjhEA
+Name: Ike Eveland
+ID: UC4yNIKGvy-YUrwYupVdLDXA
+
+Gen: Noctyx
+----------------------
+Name: Sonny Brisko
+ID: UCuuAb_72QzK0M1USPMEl1yw
+Name: Uki Violeta
+ID: UChJ5FTsHOu72_5OVx0rvsvQ
+Name: Fulgur Ovid
+ID: UCGhqxhovNfaPBpxfCruy9EA
+Name: Alban Knox
+ID: UCQ1zGxHrfEmmW4CPpBx9-qw
+
+Gen: ILuna
+----------------------
+Name: Ren Zotto
+ID: UCKu59gTZ_rdEmerdx5rV4Yg
+Name: Aster Arcadia
+ID: UCpzxZW5kghGnO5TmAFJQAVw
+
+Gen: XSoliel
+----------------------
+Name: Hex Haywire
+ID: UCz_ZRw6ak4Foy8zZy0kEprQ
+Name: Ver Vermillion
+ID: UCO8WcDsF5znr-qsXlzZNpqg
+Name: Doppio Dropscythe
+ID: UCy91xBlY_Brh3bnHxKtjrrg
+
+Gen: Krisis
+----------------------
+Name: Vantacrow Bringer
+ID: UCpYf6C9QsP_BRf97vLuXlIA
+Name: Yu Q. Wilson
+ID: UCKpKC3M5fkcEvtOr06dmYlA
+Name: Vezalius Bandage
+ID: UCK9l6rTwU3hiSZijIMq51Gw
+
+Gen: TTT
+----------------------
+Name: Claude Clawmark
+ID: UCdh-YF2gTzqDNu0VU9lwPPw
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Company: Phase Connect
+Agency: Phase Connect
+
+Sex: Female
+Gen: Phase Origins
+----------------------
+Name: Pipkin Pippa
+ID: UCJ46YTYBQVXsfsp8-HryoUA
+Name: Fujikura Uruka
+ID: UCjXJYPsKxoJyc-1RPB6dSyw
+Name: Rinkou Ashelia
+ID: UCg7sW-h1PUowdiR5K4HlBew
+Name: Tenma Maemi
+ID: UC3K7pmiHsNSx1y0tdx2bbCw
+Name: Utatane Nasa
+ID: UCB7sSUNwh_dXE7ZL3DsGDpw
+Name: Hakushika Iori
+ID: UCN5bD1YYapThOeadG7YkBOA
+Name: Shisui Michiru
+ID: UC1cExET9xoWSO9iSnRsW_1Q
+ 
+Gen: Phase Alias
+----------------------
+Name: Erina Makina
+ID: UCupmjRr7kPgzXKh-cPxxGbg
+Name: Amanogawa Shiina
+ID: UCnJNNk45O1QYS2oMRYFKSyw
+Name: Remilia Nephys
+ID: UC-hMwvRuMsQrfgu0DPKLV2A
+Name: Komachi Panko
+ID: UCVo_KgPNsDKxHwzib7uarCw
+Name: Chisaka Airi
+ID: UC5qlAhrec6-0J-K3zmhNPPQ
+Name: Himemiya Rie
+ID: UCJ4O6PWA47f6XbCgrLQNqEQ
+
+Gen: Phase Invaders
+----------------------
+Name: Kaneko Lumi
+ID: UCx_zwZuGIS4jxO07kFk8G6Q
+Name: Jelly Hoshiumi
+ID: UCkb-r702uhx4-6Lrmetp-Ow
+Name: Dizzy Dokuro
+ID: UC98iRMvRqUxRD6GP4NtRskw
+Name: Ember Amane
+ID: UC0w_dvkIwnXzMak6gfeioRQ
+
+Gen: Phase Euphoria
+----------------------
+Name: Muu Muyu
+ID: UCejbicoRnQjCOdAPAv5JPwg
+Name: Saya Sairroxs
+ID: UCFzQd4pZ43ZNEdWBFe7QOKA
+Name: Runie Ruse
+ID: UCoAQsc-DQ0MjfTp059otQAw
+Name: Eimi Isami
+ID: UC-tBLCGTheczDn5mYNoNWTQ
+Name: Hikanari Hina
+ID: UCXDytlJU6RL8D68VrPZGyIA
+
+Gen: Phase Kaleido
+----------------------
+Name: Clara Kaminari
+ID: UCRlZaszk84YXjRtdPCxqjvw
+Name: Gram Pico
+ID: UCtWH0tVAcUcSm4v96H5cAqQ
+Name: Ayase Yuu
+ID: UCnNLZWjl4GvVF4s8zBT9_kA
+Name: Kannagi Loki
+ID: UCucJYLJSEFRRfV2CA_JGHIQ
+Name: Kokoromo Memory
+ID: UCGXwv2zYOxeWiNNyPiLCBCQ
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Company: Indie
+Agency: Indie
+
+Sex: Female
+Gen: Indie
+----------------------
+Name: Dokibird
+ID: UComInW10MkHJs-_vi4rHQCQ
+Name: Maid Mint
+ID: UCcHHkJ98eSfa5aj0mdTwwLQ
+
+
+
+
+
+
