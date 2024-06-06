@@ -97,8 +97,8 @@ fi
 
 if [ "$broken" = false ]; then 
 echo "================================="
-python3 .py/process.py "$datestring" "$overwrite"
-python3 .py/assemble_list.py
+python3 py/process.py "$datestring" "$overwrite"
+python3 py/assemble_list.py
 fi
 echo "Done"
 fi
