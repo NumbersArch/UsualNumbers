@@ -37,7 +37,7 @@ ids="$(grep ^'ID: ' $filename | cut -d' ' -f2- | sed -e 's/^[[:space:]]*//' -e '
 
 datestring="$year-$month"
 
-python3 .py/assemble_chart.py "$datestring"
+python3 py/assemble_chart.py "$datestring"
 
 fi
 fi
