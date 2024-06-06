@@ -9,7 +9,7 @@ from os.path import isfile, join
 
 cname = "timechart.txt"
 pname = "processed"
-vname = "Vtubers.txt"
+vname = "Vtubers_all.txt"
 dname = join("charts", "timeseries")
 marker = ") "
 esc = "#"
