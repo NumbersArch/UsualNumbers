@@ -52,7 +52,7 @@ Cover
 		Myth
 			Gawr Gura
 			Ninomae Ina'nis
-			#Ame
+	#		Ame
 			Calliope Mori
 			Takanashi Kiara
 		#Promise
